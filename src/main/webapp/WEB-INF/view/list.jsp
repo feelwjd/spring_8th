@@ -7,7 +7,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-    <title>롤 프로게이머</title>
+    <title>list</title>
 </head>
 
 <body>
